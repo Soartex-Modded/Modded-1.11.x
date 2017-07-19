@@ -1,0 +1,4 @@
+cocoon_early.png
+cocoon_late.png
+cocoon_middle.png
+cocoon_silk_late.png
