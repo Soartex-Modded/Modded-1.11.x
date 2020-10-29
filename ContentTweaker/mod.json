@@ -1,0 +1,15 @@
+{
+    "mod_id": "contenttweaker",
+    "mod_name": "ContentTweaker",
+    "mod_filename": "ContentTweaker-1.12.2-4.9.1.jar",
+    "mc_version": "1.12.2",
+    "mod_authors": [
+        "Jaredlll08",
+        "Sky_Som",
+        "kindlich"
+    ],
+    "url_website": "teamacronymcoders.com",
+    "description": "Allows you to add Items and Blocks",
+    "mod_version": "1.12.2-4.9.1",
+    "mod_dir": "/ContentTweaker/"
+}
