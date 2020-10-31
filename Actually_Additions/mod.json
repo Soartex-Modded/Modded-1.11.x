@@ -1,0 +1,13 @@
+{
+    "mod_id": "actuallyadditions",
+    "mod_name": "Actually Additions",
+    "mod_filename": "ActuallyAdditions-1.11.2-r96.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "Ellpeck"
+    ],
+    "url_website": "http://github.com/Ellpeck/ActuallyAdditions",
+    "description": "A bunch of awesome gadgets and things! But it's way more than just that!",
+    "mod_version": "1.11.2-r96",
+    "mod_dir": "/Actually_Additions/"
+}

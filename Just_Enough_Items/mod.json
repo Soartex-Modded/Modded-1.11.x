@@ -1,12 +1,13 @@
 {
     "mod_id": "jei",
     "mod_name": "Just Enough Items",
-    "mod_dir": "/Just_Enough_Items/",
-    "mod_version": "4.3.6.280",
+    "mod_filename": "jei_1.11.2-4.5.0.294.jar",
     "mc_version": "1.11.2",
     "mod_authors": [
         "mezz"
     ],
-    "url_website": "https://minecraft.curseforge.com/projects/just-enough-items-jei",
-    "description": "JEI is an item and recipe viewing mod."
+    "url_website": "https://github.com/mezz/JustEnoughItems",
+    "description": "View Items and Recipes",
+    "mod_version": "4.5.0.294",
+    "mod_dir": "/Just_Enough_Items/"
 }

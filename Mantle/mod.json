@@ -1,0 +1,18 @@
+{
+    "mod_id": "mantle",
+    "mod_name": "Mantle",
+    "mod_filename": "Mantle-1.15.2-1.5.15.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "mDiyo",
+        "fuj1n",
+        "ProgWML6",
+        "Alexbegt",
+        "bonusboni",
+        "KnightMiner"
+    ],
+    "url_website": "https://github.com/SlimeKnights/Mantle",
+    "description": "Shared code for Forge mods",
+    "mod_version": "1.2.0.26",
+    "mod_dir": "/Mantle/"
+}

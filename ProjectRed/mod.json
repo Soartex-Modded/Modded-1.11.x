@@ -1,0 +1,14 @@
+{
+    "mod_filename": "ProjectRed-1.12.2-4.9.4.120-integration.jar",
+    "mod_id": "projectred",
+    "mod_name": "ProjectRed",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "MrTJP",
+        "covers1624"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/project-red-base",
+    "description": "Redstone enthusiasts' one-stop-shop. Core module for Project Red.",
+    "mod_version": "4.8.5.56",
+    "mod_dir": "/ProjectRed/"
+}

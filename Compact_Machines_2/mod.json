@@ -1,0 +1,13 @@
+{
+    "mod_id": "cm2",
+    "mod_name": "Compact Machines 2",
+    "mod_filename": "cm2-1.11.2-2.0.1-b142.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "davenonymous"
+    ],
+    "url_website": "",
+    "description": "Adds one simple game mechanic: Small rooms inside of blocks. It basically gives you the ability to build your contraptions inside of a single block.",
+    "mod_version": "1.11.2-2.0.1-b142",
+    "mod_dir": "/Compact_Machines_2/"
+}

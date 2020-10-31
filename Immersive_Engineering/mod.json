@@ -1,0 +1,14 @@
+{
+    "mod_id": "immersive-engineering",
+    "mod_name": "Immersive Engineering",
+    "mod_filename": "ImmersiveEngineering-0.11-63.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "BluSunrize",
+        "malte0811"
+    ],
+    "url_website": "https://github.com/BluSunrize/ImmersiveEngineering",
+    "description": "A retro-futuristic tech mod!",
+    "mod_version": "0.11-63",
+    "mod_dir": "/Immersive_Engineering/"
+}

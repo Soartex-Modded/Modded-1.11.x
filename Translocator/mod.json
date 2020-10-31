@@ -1,12 +1,13 @@
 {
+    "mod_filename": "Translocators-1.11.2-2.3.0.63-universal.jar",
     "mod_id": "translocator",
     "mod_name": "Translocator",
-    "mod_dir": "/Translocator/",
-    "mod_version": "v2.2.0.59",
     "mc_version": "1.11.2",
     "mod_authors": [
-        "ChickenBones"
+        "covers1624"
     ],
-    "url_website": "http://chickenbones.net/Pages/links.html",
-    "description": "This mod adds short range compact item and liquid transport."
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/translocators-1-8",
+    "description": "A fancy way to move stuff.",
+    "mod_dir": "/Translocator/",
+    "mod_version": "v2.2.0.59"
 }

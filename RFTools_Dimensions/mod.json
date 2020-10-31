@@ -2,12 +2,12 @@
     "mod_id": "rftools-dimensions",
     "mod_name": "RFTools Dimensions",
     "mod_filename": "rftoolsdim-1.11-4.45alpha2.jar",
-    "mc_version": "1.12.2",
+    "mc_version": "1.11.2",
     "mod_authors": [
         "McJty"
     ],
     "url_website": "",
     "description": "This is an addon mod for RFTools which handles creation of dimensions",
-    "mod_version": "1.12-5.60-alpha",
+    "mod_version": "1.1x-5.05",
     "mod_dir": "/RFTools_Dimensions/"
 }

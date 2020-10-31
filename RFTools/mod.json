@@ -2,12 +2,12 @@
     "mod_id": "rftools",
     "mod_name": "RFTools",
     "mod_filename": "rftools-1.12-7.50-alpha.jar",
-    "mc_version": "1.12.2",
+    "mc_version": "1.11.2",
     "mod_authors": [
         "McJty"
     ],
     "url_website": "",
     "description": "RFTools, blocks and items to help with Redflux (dimension builder, crafter, monitor, scanner, ...)",
-    "mod_version": "1.12-7.50-alpha",
+    "mod_version": "1.1x-7.00alpha2",
     "mod_dir": "/RFTools/"
 }

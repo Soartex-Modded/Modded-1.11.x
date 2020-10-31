@@ -1,0 +1,13 @@
+{
+    "mod_id": "mekanismgenerators",
+    "mod_name": "Mekanism Generators",
+    "mod_filename": "MekanismGenerators-1.11.2-9.3.5.206.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "aidancbrady"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/mekanism-generators",
+    "description": "Advanced energy generation for Mekanism.",
+    "mod_version": "9.3.5",
+    "mod_dir": "/Mekanism_Generators/"
+}

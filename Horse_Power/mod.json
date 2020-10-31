@@ -1,0 +1,13 @@
+{
+    "mod_id": "horsepower",
+    "mod_name": "Horse Power",
+    "mod_filename": "HorsePower-1.11.2-1.7.1.41.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "GoryMoon"
+    ],
+    "url_website": "",
+    "description": "A mod that adds a horsepowered grindstone and chopping block",
+    "mod_version": "1.7.1.41",
+    "mod_dir": "/Horse_Power/"
+}
