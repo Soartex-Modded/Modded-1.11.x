@@ -1,0 +1,14 @@
+{
+    "mod_id": "thermal-expansion",
+    "mod_name": "Thermal Expansion",
+    "mod_filename": "ThermalExpansion-1.11.2-5.2.6.21-universal.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "TeamCoFH",
+        "KingLemmingCoFH"
+    ],
+    "url_website": "http://www.teamcofh.com",
+    "description": "Contains Core Functionality for all Team CoFH mods. Also does some really cool stuff on its own!",
+    "mod_version": "4.2.8.16",
+    "mod_dir": "/Thermal_Expansion/"
+}

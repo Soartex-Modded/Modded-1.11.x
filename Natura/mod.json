@@ -2,7 +2,7 @@
     "mod_id": "natura",
     "mod_name": "Natura",
     "mod_filename": "natura-1.10.2-4.1.0.17.jar",
-    "mc_version": "1.12.2",
+    "mc_version": "1.11.2",
     "mod_authors": [
         "mDiyo",
         "ProgWML6",
@@ -10,6 +10,6 @@
     ],
     "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura",
     "description": "Natura",
-    "mod_version": "1.12.2-4.3.2.69",
+    "mod_version": "1.11.2-4.2.0.22",
     "mod_dir": "/Natura/"
 }

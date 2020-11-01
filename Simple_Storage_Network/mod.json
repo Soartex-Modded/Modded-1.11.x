@@ -1,0 +1,13 @@
+{
+    "mod_id": "storagenetwork",
+    "mod_name": "Simple Storage Network",
+    "mod_filename": "SimpleStorageNetwork-1.15.2-0.3.2.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "Lothrazar"
+    ],
+    "url_website": "",
+    "description": "A simplified port of the original Storage Network",
+    "mod_version": "1.11.2-1.0.1",
+    "mod_dir": "/Simple_Storage_Network/"
+}

@@ -1,0 +1,15 @@
+{
+    "mod_id": "buildcraft_7",
+    "mod_name": "Buildcraft 7",
+    "mod_filename": "buildcraft-7.0.5.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "Covert_Jaguar",
+        "AEnterprise",
+        "AlexIIL"
+    ],
+    "url_website": "http://www.mod-buildcraft.com/",
+    "description": "BuildCraft Builders Module",
+    "mod_version": "7.99.8.1",
+    "mod_dir": "/BuildCraft_7/"
+}

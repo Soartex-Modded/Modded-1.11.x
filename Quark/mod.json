@@ -2,13 +2,13 @@
     "mod_id": "quark",
     "mod_name": "Quark",
     "mod_filename": "Quark-beta-50.jar",
-    "mc_version": "1.12.2",
+    "mc_version": "1.11.2",
     "mod_authors": [
         "Vazkii",
         "wiresegal"
     ],
     "url_website": "http://www.vazkii.us",
     "description": "A Quark is a very small thing. This mod is a collection of small things that improve the vanilla minecraft experience.",
-    "mod_version": "r1.6-179",
+    "mod_version": "r1.2-93",
     "mod_dir": "/Quark/"
 }

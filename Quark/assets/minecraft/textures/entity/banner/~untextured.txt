@@ -1,4 +1,0 @@
-quark_dragon.png
-quark_eye.png
-quark_shield.png
-quark_sword.png

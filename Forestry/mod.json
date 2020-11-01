@@ -2,15 +2,13 @@
     "mod_id": "forestry",
     "mod_name": "Forestry",
     "mod_filename": "forestry_1.10.2-5.2.17.388.jar",
-    "mc_version": "1.12.2",
+    "mc_version": "1.11.2",
     "mod_authors": [
-        "_ForgeUser7678633",
-        "mezz",
-        "Covert_Jaguar",
-        "MysteriousAges"
+        "_ForgeUser9116757",
+        "mezz"
     ],
-    "url_website": "http://forestry.sengir.net/",
-    "description": "Bringing bees, butterflies and more trees. as well as eco-friendly energy production and mail to Minecraft.",
-    "mod_version": "5.8.2.387",
+    "url_website": "https://minecraft.curseforge.com/projects/binnies-mods",
+    "description": "Various expansions for Forestry adding new bees and trees",
+    "mod_version": "2.1.0.41",
     "mod_dir": "/Forestry/"
 }
