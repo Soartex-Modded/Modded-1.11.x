@@ -1,0 +1,14 @@
+{
+    "mod_id": "totemic",
+    "mod_name": "Totemic",
+    "mod_filename": "Totemic-1.11.2-0.8.7.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "ljfa2",
+        "Pokefenn"
+    ],
+    "url_website": "http://minecraft.curseforge.com/projects/totemic",
+    "description": "A mod with a focus on Totems, music and nature",
+    "mod_version": "1.11.2-0.8.7",
+    "mod_dir": "/Totemic/"
+}

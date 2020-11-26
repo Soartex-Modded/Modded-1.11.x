@@ -1,0 +1,8 @@
+{
+    "mod_name": "Bookshelf",
+    "mod_id": "bookshelf",
+    "mod_version": "1.11.2-2.0.0.387",
+    "url_website": "http://minecraft.curseforge.com/projects/bookshelf",
+    "description": "Bookshelf is a core/library mod, which adds new features and tools into the game for other content creators to work with. The primary focus of this project is to make use of the combined strength of the modded community to create wonderful tools that everyone can use.",
+    "mod_dir": "/Bookshelf/"
+}

@@ -1,0 +1,13 @@
+{
+    "mod_id": "steves-carts-reborn",
+    "mod_name": "Steve's Carts Reborn",
+    "mod_filename": "StevesCarts-1.11.2-2.3.0.22.jar",
+    "mc_version": "1.11.2",
+    "mod_authors": [
+        "modmuss50"
+    ],
+    "url_website": "",
+    "description": "Continuation of the original custom minecart mod",
+    "mod_version": "2.3.0.22",
+    "mod_dir": "/Steves_Carts_Reborn/"
+}
